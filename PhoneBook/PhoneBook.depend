@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703580962 source:d:\meowyy\phonebook\main.cpp
+	<iostream>
+	<string>
+
